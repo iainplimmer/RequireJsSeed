@@ -1,0 +1,17 @@
+{
+  "name": "requireseed",
+  "version": "0.0.1",
+  "description": "A seed application for require JS",
+  "main": "index.js",
+  "dependencies": {
+    "requirejs": "^2.2.0"
+  },
+  "devDependencies": {
+    "requirejs": "^2.2.0"
+  },
+  "scripts": {
+    
+  },
+  "author": "Iain Plimmer",
+  "license": "ISC"
+}
